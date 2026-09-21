@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has been discontinued and will be retired September 23rd 2026.
+
 # [Trilium Rocks!](https://trilium.rocks/) [![Discord](https://img.shields.io/discord/1155302051987849320?style=flat-square&logo=discord&logoColor=white&label=Discord&color=%235865F2)](https://discord.gg/eTaTXUgcBr)
 
 [Trilium Notes](https://github.com/zadam/trilium) really does rock! Don't believe me? Well I created the entire [trilium.rocks](https://trilium.rocks) website using the shared notes feature inside Trilium with a little bit of extra CSS and JS also contained in Trilium. That JS and CSS? That's what you'll find here in this repository.

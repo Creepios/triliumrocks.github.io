@@ -37,8 +37,8 @@ jobs:
       - name: Assemble Pages artifact
         run: |
           mkdir -p _site
+          cp -r site/. _site
           cp -r dist _site/dist
-          cp index.html _site/index.html
           if [ -f CNAME ]; then cp CNAME _site/CNAME; fi
 
       - name: Configure Pages

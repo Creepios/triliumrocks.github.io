@@ -27,4 +27,8 @@ Since the entire site is just a share from my personal Trilium instance, there i
 
 This repository deploys to GitHub Pages from the `main` branch using the workflow in `.github/workflows/deploy-pages.yml`.
 
+The deployed page is built from `site/index.html` plus bundled assets from `dist/`.
+
+Because the original Trilium Rocks content pages are authored in a Trilium instance and are not checked into this repository, the GitHub Pages deployment cannot reproduce the full historical site content from this repository alone.
+
 Expected Pages URL: `https://creepios.github.io/triliumrocks.github.io/`

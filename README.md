@@ -22,3 +22,9 @@ Rather than saying some specific goals of what this site strives to be, I'll say
 ## Contributing
 
 Since the entire site is just a share from my personal Trilium instance, there is no easy way to contribute new pages or fixes for typos. For now, this GitHub repo's issues and discussion can be used as places to contribute bug reports, feature requests, and even documentation contributions. But who knows, maybe soon I'll think of some clever way to introduce contributions directly to my Trilium instance.
+
+## GitHub Pages deployment
+
+This repository deploys to GitHub Pages from the `main` branch using the workflow in `.github/workflows/deploy-pages.yml`.
+
+Expected Pages URL: `https://creepios.github.io/triliumrocks.github.io/`
